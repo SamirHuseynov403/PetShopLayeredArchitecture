@@ -11,6 +11,9 @@ namespace PetShop.BLL.Services
             Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>>? include = null,
             Func<IQueryable<TEntity>, IOrderedQueryable<TEntity>>? orderBy = null,
             bool AsNoTracking = false);
+        Task<IEnumerable<TEntity>> GetAsync(Expression<Func<TEntity, bool>> predicate,
+            Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>>? include = null,
+            bool AsNoTracking = false);
 
         Task<TViewModel?> GetByIdAsync(int id);
         Task CreateAsync(TCreateViewModel model);

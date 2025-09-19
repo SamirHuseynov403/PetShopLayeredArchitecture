@@ -46,6 +46,11 @@ where TEntity : BaseEntity
             return viewModels;
         }
 
+        public Task<IEnumerable<TEntity>> GetAsync(Expression<Func<TEntity, bool>> predicate, Func<IQueryable<TEntity>, IIncludableQueryable<TEntity, object>>? include = null, bool AsNoTracking = false)
+        {
+            throw new NotImplementedException();
+        }
+
         public virtual async Task<TViewModel?> GetByIdAsync(int id)
         {
             var entity = await Repository.GetByIdAsync(id);

@@ -3,148 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.bll\\manager\\headermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|solutionrelative:petshop.bll\\manager\\headermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshoplayeredarch\\controllers\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|solutionrelative:petshoplayeredarch\\controllers\\blogpostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.bll\\services\\isocialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|solutionrelative:petshop.bll\\services\\isocialservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshoplayeredarch\\views\\blogpost\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|solutionrelative:petshoplayeredarch\\views\\blogpost\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.bll\\services\\ibioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|solutionrelative:petshop.bll\\services\\ibioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshoplayeredarch\\views\\singlepost\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|solutionrelative:petshoplayeredarch\\views\\singlepost\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.bll\\manager\\footermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|solutionrelative:petshop.bll\\manager\\footermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshoplayeredarch\\controllers\\singlepostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|solutionrelative:petshoplayeredarch\\controllers\\singlepostcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.bll\\manager\\socialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|solutionrelative:petshop.bll\\manager\\socialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshoplayeredarch\\models\\blogpostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|solutionrelative:petshoplayeredarch\\models\\blogpostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.bll\\services\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|solutionrelative:petshop.bll\\services\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshoplayeredarch\\components\\header\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|solutionrelative:petshoplayeredarch\\components\\header\\headerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshoplayeredarch\\components\\footer\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|solutionrelative:petshoplayeredarch\\components\\footer\\footerviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.bll\\manager\\biomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|solutionrelative:petshop.bll\\manager\\biomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.bll\\bussinesslogiclayerserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|solutionrelative:petshop.bll\\bussinesslogiclayerserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.bll\\dtos\\bio\\biodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|solutionrelative:petshop.bll\\dtos\\bio\\biodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshoplayeredarch\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|solutionrelative:petshoplayeredarch\\views\\shared\\components\\footer\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.bll\\manager\\crudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|solutionrelative:petshop.bll\\manager\\crudmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshoplayeredarch\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|solutionrelative:petshoplayeredarch\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.bll\\dtos\\social\\updatesocialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|solutionrelative:petshop.bll\\dtos\\social\\updatesocialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.bll\\dtos\\social\\socialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|solutionrelative:petshop.bll\\dtos\\social\\socialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.bll\\dtos\\social\\createsocialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|solutionrelative:petshop.bll\\dtos\\social\\createsocialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.bll\\dtos\\bio\\updatebiodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|solutionrelative:petshop.bll\\dtos\\bio\\updatebiodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.bll\\dtos\\bio\\createbiodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|solutionrelative:petshop.bll\\dtos\\bio\\createbiodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.bll\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0C9F03C-221E-4DE0-86AD-379B3A5C813C}|PetShop.BLL\\PetShop.BLL.csproj|solutionrelative:petshop.bll\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshoplayeredarch\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|solutionrelative:petshoplayeredarch\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.dal\\repositories\\interfaces\\isocialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|solutionrelative:petshop.dal\\repositories\\interfaces\\isocialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.dal\\repositories\\implementations\\socialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|solutionrelative:petshop.dal\\repositories\\implementations\\socialrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.dal\\entities\\bio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|solutionrelative:petshop.dal\\entities\\bio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshoplayeredarch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|solutionrelative:petshoplayeredarch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|solutionrelative:petshop.dal\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.dal\\entities\\social.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|solutionrelative:petshop.dal\\entities\\social.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|solutionrelative:petshop.dal\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshoplayeredarch\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|solutionrelative:petshoplayeredarch\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshoplayeredarch\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|solutionrelative:petshoplayeredarch\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.dal\\migrations\\20250909092344_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|solutionrelative:petshop.dal\\migrations\\20250909092344_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.dal\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|solutionrelative:petshop.dal\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshoplayeredarch\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|solutionrelative:petshoplayeredarch\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.dal\\init\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|solutionrelative:petshop.dal\\init\\datainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|solutionrelative:petshop.dal\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshop.dal\\migrations\\20250909092938_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE589476-5C2C-474B-864C-F6279B5FD582}|PetShop.DAL\\PetShop.DAL.csproj|solutionrelative:petshop.dal\\migrations\\20250909092938_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|c:\\users\\mehemmed\\source\\repos\\petshoplayeredarch\\petshoplayeredarch\\models\\singlepostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A9ECF48-0AEB-4C69-9D33-76574840CA1F}|PetShopLayeredArch\\PetShop.MVC.csproj|solutionrelative:petshoplayeredarch\\models\\singlepostviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -154,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -170,470 +50,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IBioService.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\Services\\IBioService.cs",
-              "RelativeDocumentMoniker": "PetShop.BLL\\Services\\IBioService.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\Services\\IBioService.cs",
-              "RelativeToolTip": "PetShop.BLL\\Services\\IBioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-10T11:28:27.92Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SocialManager.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\Manager\\SocialManager.cs",
-              "RelativeDocumentMoniker": "PetShop.BLL\\Manager\\SocialManager.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\Manager\\SocialManager.cs",
-              "RelativeToolTip": "PetShop.BLL\\Manager\\SocialManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T12:05:49.564Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "FooterManager.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\Manager\\FooterManager.cs",
-              "RelativeDocumentMoniker": "PetShop.BLL\\Manager\\FooterManager.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\Manager\\FooterManager.cs",
-              "RelativeToolTip": "PetShop.BLL\\Manager\\FooterManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T07:33:29.37Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HeaderManager.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\Manager\\HeaderManager.cs",
-              "RelativeDocumentMoniker": "PetShop.BLL\\Manager\\HeaderManager.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\Manager\\HeaderManager.cs",
-              "RelativeToolTip": "PetShop.BLL\\Manager\\HeaderManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAAfAAAAAAAAAA==",
+              "Title": "BlogPostController.cs",
+              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Controllers\\BlogPostController.cs",
+              "RelativeDocumentMoniker": "PetShopLayeredArch\\Controllers\\BlogPostController.cs",
+              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Controllers\\BlogPostController.cs",
+              "RelativeToolTip": "PetShopLayeredArch\\Controllers\\BlogPostController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T07:39:47.762Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CrudManager.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\Manager\\CrudManager.cs",
-              "RelativeDocumentMoniker": "PetShop.BLL\\Manager\\CrudManager.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\Manager\\CrudManager.cs",
-              "RelativeToolTip": "PetShop.BLL\\Manager\\CrudManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T07:30:29.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Views\\Shared\\Components\\Footer\\Default.cshtml",
-              "RelativeDocumentMoniker": "PetShopLayeredArch\\Views\\Shared\\Components\\Footer\\Default.cshtml",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Views\\Shared\\Components\\Footer\\Default.cshtml",
-              "RelativeToolTip": "PetShopLayeredArch\\Views\\Shared\\Components\\Footer\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-09T09:33:12.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BioDto.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\DTOs\\Bio\\BioDto.cs",
-              "RelativeDocumentMoniker": "PetShop.BLL\\DTOs\\Bio\\BioDto.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\DTOs\\Bio\\BioDto.cs",
-              "RelativeToolTip": "PetShop.BLL\\DTOs\\Bio\\BioDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T12:11:55.444Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BussinessLogicLayerServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\BussinessLogicLayerServiceRegistration.cs",
-              "RelativeDocumentMoniker": "PetShop.BLL\\BussinessLogicLayerServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\BussinessLogicLayerServiceRegistration.cs",
-              "RelativeToolTip": "PetShop.BLL\\BussinessLogicLayerServiceRegistration.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T08:32:21.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "BioManager.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\Manager\\BioManager.cs",
-              "RelativeDocumentMoniker": "PetShop.BLL\\Manager\\BioManager.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\Manager\\BioManager.cs",
-              "RelativeToolTip": "PetShop.BLL\\Manager\\BioManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T12:59:57.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FooterViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Components\\Footer\\FooterViewComponent.cs",
-              "RelativeDocumentMoniker": "PetShopLayeredArch\\Components\\Footer\\FooterViewComponent.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Components\\Footer\\FooterViewComponent.cs",
-              "RelativeToolTip": "PetShopLayeredArch\\Components\\Footer\\FooterViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T09:31:52.769Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICrudService.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\Services\\ICrudService.cs",
-              "RelativeDocumentMoniker": "PetShop.BLL\\Services\\ICrudService.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\Services\\ICrudService.cs",
-              "RelativeToolTip": "PetShop.BLL\\Services\\ICrudService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T07:22:37.734Z",
+              "WhenOpened": "2025-09-16T12:54:09.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ISocialService.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\Services\\ISocialService.cs",
-              "RelativeDocumentMoniker": "PetShop.BLL\\Services\\ISocialService.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\Services\\ISocialService.cs",
-              "RelativeToolTip": "PetShop.BLL\\Services\\ISocialService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T11:57:36.456Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "PetShopLayeredArch\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "PetShopLayeredArch\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-09T10:40:22.78Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HeaderViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Components\\Header\\HeaderViewComponent.cs",
-              "RelativeDocumentMoniker": "PetShopLayeredArch\\Components\\Header\\HeaderViewComponent.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Components\\Header\\HeaderViewComponent.cs",
-              "RelativeToolTip": "PetShopLayeredArch\\Components\\Header\\HeaderViewComponent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T09:32:15.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "CreateBioDto.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\DTOs\\Bio\\CreateBioDto.cs",
-              "RelativeDocumentMoniker": "PetShop.BLL\\DTOs\\Bio\\CreateBioDto.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\DTOs\\Bio\\CreateBioDto.cs",
-              "RelativeToolTip": "PetShop.BLL\\DTOs\\Bio\\CreateBioDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T12:59:23.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "UpdateBioDto.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\DTOs\\Bio\\UpdateBioDto.cs",
-              "RelativeDocumentMoniker": "PetShop.BLL\\DTOs\\Bio\\UpdateBioDto.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\DTOs\\Bio\\UpdateBioDto.cs",
-              "RelativeToolTip": "PetShop.BLL\\DTOs\\Bio\\UpdateBioDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T12:59:24.923Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "CreateSocialDto.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\DTOs\\Social\\CreateSocialDto.cs",
-              "RelativeDocumentMoniker": "PetShop.BLL\\DTOs\\Social\\CreateSocialDto.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\DTOs\\Social\\CreateSocialDto.cs",
-              "RelativeToolTip": "PetShop.BLL\\DTOs\\Social\\CreateSocialDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T12:59:39.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UpdateSocialDto.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\DTOs\\Social\\UpdateSocialDto.cs",
-              "RelativeDocumentMoniker": "PetShop.BLL\\DTOs\\Social\\UpdateSocialDto.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\DTOs\\Social\\UpdateSocialDto.cs",
-              "RelativeToolTip": "PetShop.BLL\\DTOs\\Social\\UpdateSocialDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T12:59:47.548Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SocialDto.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\DTOs\\Social\\SocialDto.cs",
-              "RelativeDocumentMoniker": "PetShop.BLL\\DTOs\\Social\\SocialDto.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\DTOs\\Social\\SocialDto.cs",
-              "RelativeToolTip": "PetShop.BLL\\DTOs\\Social\\SocialDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T11:45:44.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Views\\Shared\\Components\\Header\\Default.cshtml",
-              "RelativeDocumentMoniker": "PetShopLayeredArch\\Views\\Shared\\Components\\Header\\Default.cshtml",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Views\\Shared\\Components\\Header\\Default.cshtml",
-              "RelativeToolTip": "PetShopLayeredArch\\Views\\Shared\\Components\\Header\\Default.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-09T09:33:22.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "PetShop.BLL\\Mapping\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.BLL\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "PetShop.BLL\\Mapping\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T07:44:02.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Bio.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Entities\\Bio.cs",
-              "RelativeDocumentMoniker": "PetShop.DAL\\Entities\\Bio.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Entities\\Bio.cs",
-              "RelativeToolTip": "PetShop.DAL\\Entities\\Bio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T06:30:31.066Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "SocialRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Repositories\\Implementations\\SocialRepository.cs",
-              "RelativeDocumentMoniker": "PetShop.DAL\\Repositories\\Implementations\\SocialRepository.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Repositories\\Implementations\\SocialRepository.cs",
-              "RelativeToolTip": "PetShop.DAL\\Repositories\\Implementations\\SocialRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T12:06:13.402Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ISocialRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Repositories\\Interfaces\\ISocialRepository.cs",
-              "RelativeDocumentMoniker": "PetShop.DAL\\Repositories\\Interfaces\\ISocialRepository.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Repositories\\Interfaces\\ISocialRepository.cs",
-              "RelativeToolTip": "PetShop.DAL\\Repositories\\Interfaces\\ISocialRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T12:06:09.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Program.cs",
-              "RelativeDocumentMoniker": "PetShopLayeredArch\\Program.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Program.cs",
-              "RelativeToolTip": "PetShopLayeredArch\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwCMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T08:40:25.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Repositories\\Implementations\\Repository.cs",
-              "RelativeDocumentMoniker": "PetShop.DAL\\Repositories\\Implementations\\Repository.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Repositories\\Implementations\\Repository.cs",
-              "RelativeToolTip": "PetShop.DAL\\Repositories\\Implementations\\Repository.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T06:36:27.751Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Social.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Entities\\Social.cs",
-              "RelativeDocumentMoniker": "PetShop.DAL\\Entities\\Social.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Entities\\Social.cs",
-              "RelativeToolTip": "PetShop.DAL\\Entities\\Social.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T06:30:45.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "PetShop.DAL\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "PetShop.DAL\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T08:39:46.233Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "DataInitializer.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Init\\DataInitializer.cs",
-              "RelativeDocumentMoniker": "PetShop.DAL\\Init\\DataInitializer.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Init\\DataInitializer.cs",
-              "RelativeToolTip": "PetShop.DAL\\Init\\DataInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T08:43:17.189Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Entities\\AppUser.cs",
-              "RelativeDocumentMoniker": "PetShop.DAL\\Entities\\AppUser.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Entities\\AppUser.cs",
-              "RelativeToolTip": "PetShop.DAL\\Entities\\AppUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T09:16:53.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "20250909092344_Init.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Migrations\\20250909092344_Init.cs",
-              "RelativeDocumentMoniker": "PetShop.DAL\\Migrations\\20250909092344_Init.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Migrations\\20250909092344_Init.cs",
-              "RelativeToolTip": "PetShop.DAL\\Migrations\\20250909092344_Init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T09:23:45.279Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "20250909092938_AddIdentity.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Migrations\\20250909092938_AddIdentity.cs",
-              "RelativeDocumentMoniker": "PetShop.DAL\\Migrations\\20250909092938_AddIdentity.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Migrations\\20250909092938_AddIdentity.cs",
-              "RelativeToolTip": "PetShop.DAL\\Migrations\\20250909092938_AddIdentity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T09:29:39.082Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "PetShopLayeredArch\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "PetShopLayeredArch\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAGkAAAAAAAAAAIBJwIMAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-09T09:33:30.348Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PetShopLayeredArch\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PetShopLayeredArch\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOoEAAAYAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Views\\BlogPost\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetShopLayeredArch\\Views\\BlogPost\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Views\\BlogPost\\Index.cshtml",
+              "RelativeToolTip": "PetShopLayeredArch\\Views\\BlogPost\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-09T09:43:00.675Z",
+              "WhenOpened": "2025-09-16T12:53:09.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\appsettings.json",
-              "RelativeDocumentMoniker": "PetShopLayeredArch\\appsettings.json",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\appsettings.json",
-              "RelativeToolTip": "PetShopLayeredArch\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-09T08:39:04.32Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Repositories\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "PetShop.DAL\\Repositories\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShop.DAL\\Repositories\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "PetShop.DAL\\Repositories\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "SinglePostViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Models\\SinglePostViewModel.cs",
+              "RelativeDocumentMoniker": "PetShopLayeredArch\\Models\\SinglePostViewModel.cs",
+              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Models\\SinglePostViewModel.cs",
+              "RelativeToolTip": "PetShopLayeredArch\\Models\\SinglePostViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T06:18:13.059Z",
+              "WhenOpened": "2025-09-16T12:42:05.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogPostViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Models\\BlogPostViewModel.cs",
+              "RelativeDocumentMoniker": "PetShopLayeredArch\\Models\\BlogPostViewModel.cs",
+              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Models\\BlogPostViewModel.cs",
+              "RelativeToolTip": "PetShopLayeredArch\\Models\\BlogPostViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:41:04.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SinglePostController.cs",
+              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Controllers\\SinglePostController.cs",
+              "RelativeDocumentMoniker": "PetShopLayeredArch\\Controllers\\SinglePostController.cs",
+              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Controllers\\SinglePostController.cs",
+              "RelativeToolTip": "PetShopLayeredArch\\Controllers\\SinglePostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T12:40:16.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Views\\SinglePost\\Index.cshtml",
+              "RelativeDocumentMoniker": "PetShopLayeredArch\\Views\\SinglePost\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mehemmed\\source\\repos\\PetShopLayeredArch\\PetShopLayeredArch\\Views\\SinglePost\\Index.cshtml",
+              "RelativeToolTip": "PetShopLayeredArch\\Views\\SinglePost\\Index.cshtml",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAAABgBAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-16T12:39:19.419Z",
               "EditorCaption": ""
             }
           ]

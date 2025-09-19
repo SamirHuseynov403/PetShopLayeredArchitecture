@@ -19,6 +19,7 @@ namespace PetShop.BLL
 
             services.AddScoped<ISocialRepository, SocialRepository>();
             services.AddScoped<IBioRepository, BioRepository>();
+            services.AddScoped<BlogPostRepository, BlogPostRepository>();
 
             return services;
         }
@@ -34,6 +35,7 @@ namespace PetShop.BLL
             services.AddScoped<FooterManager>();
             services.AddScoped<ISocialService, SocialManager>();
             services.AddScoped<IBioService, BioManager>();
+            services.AddScoped<IBlogPostService, BlogPostManager>();
 
             return services;
         }

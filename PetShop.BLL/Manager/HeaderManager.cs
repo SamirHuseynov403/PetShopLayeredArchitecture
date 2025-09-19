@@ -1,5 +1,7 @@
-﻿using PetShop.BLL.DTOs.Bio;
+﻿using AutoMapper;
+using PetShop.BLL.DTOs.Bio;
 using PetShop.BLL.Services;
+using PetShop.DAL.Entities;
 
 namespace PetShop.BLL.Manager
 {
@@ -7,11 +9,13 @@ namespace PetShop.BLL.Manager
     {
         private readonly ISocialService _socialService;
         private readonly IBioService _bioService;
+        private readonly IMapper _mapper;
 
-        public HeaderManager(ISocialService socialService, IBioService bioService)
+        public HeaderManager(ISocialService socialService, IBioService bioService, IMapper mapper)
         {
             _socialService = socialService;
             _bioService = bioService;
+            _mapper = mapper;
         }
 
         public async Task<BioDto> GetHeaderAsync()
@@ -19,14 +23,9 @@ namespace PetShop.BLL.Manager
             var socials = await _socialService.GetAllAsync();
             var bio = await _bioService.GetAllAsync();
 
-
-            var headerDto = new BioDto
-            {
-                Logo = bio.FirstOrDefault()?.Logo,
-                Mail = bio.FirstOrDefault()?.Mail,
-                Mobil = bio.FirstOrDefault()?.Mobil,
-                Socials = socials.ToList()
-            };
+            var headerDto = _mapper.Map<BioDto>(bio.FirstOrDefault()?? new BioDto());
+            
+            headerDto.Socials = socials.ToList();
 
             return headerDto;
         }
