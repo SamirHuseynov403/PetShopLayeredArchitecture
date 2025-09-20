@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using PetShop.BLL.DTOs.Bio;
 using PetShop.BLL.DTOs.BlogPost;
+using PetShop.BLL.DTOs.Category;
 using PetShop.BLL.DTOs.Social;
 using PetShop.DAL.Entities;
 
@@ -22,6 +23,10 @@ namespace PetShop.BLL.Mapping
             CreateMap<BlogPost,BlogPostDto>().ReverseMap();
             CreateMap<BlogPost, CreateBlogPostDto>().ReverseMap();
             CreateMap<BlogPost, UpdateBlogPostDto>().ReverseMap();
+
+            CreateMap<Category,CategoryDto>().ReverseMap();
+            CreateMap<Category,CreateCategoryDto>().ReverseMap();
+            CreateMap<Category,UpdateCategoryDto>().ReverseMap();
 
         }
     }

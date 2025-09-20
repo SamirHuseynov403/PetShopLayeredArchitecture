@@ -12,7 +12,7 @@ namespace PetShop.DAL.Data
         public DbSet<Entities.Bio> Bios { get; set; }
         public DbSet<Entities.Social> Socials { get; set; }
         public DbSet<Entities.BlogPost> BlogPosts { get; set; }
-
+        public DbSet<Entities.Category> Categories { get; set; }
 
     }
 }
